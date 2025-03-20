@@ -11,8 +11,8 @@ ON-Data é um sistema de gestão para clínicas odontológicas desenvolvido com 
 ## Integrantes do Grupo
 
 - Eduardo Felipe Nunes Função - RM553362
-- Artur Fiorindo - RM 
-- Jhoe Hashimoto - RM
+- Artur Fiorindo - RM - 553831
+- Jhoe Hashimoto - RM - 553481
 
 ## Funcionalidades
 
@@ -33,7 +33,7 @@ ON-Data é um sistema de gestão para clínicas odontológicas desenvolvido com 
   - Chart.js
 
 - **Banco de Dados:**
-  - H2 Database (desenvolvimento)
+  - MySQL (dev)
   - Oracle (produção)
 
 ## Diagrama Entidade Relacionamento
