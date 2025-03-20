@@ -39,6 +39,11 @@ ON-Data é um sistema de gestão para clínicas odontológicas desenvolvido com 
 ## Diagrama Entidade Relacionamento
 ![384556710-1f80d9cb-08d4-4d96-8207-a67ef1b229ce](https://github.com/user-attachments/assets/7af3ff08-2465-4a2f-8c95-26cc754a14b1)
 
+### Para abrir a aplicação na nuvem, abra o link abaixo
+
+```bash
+https://ondata-api-server-spring-final-esenhvbxfhazftdz.eastus2-01.azurewebsites.net/ocorrencias
+```
 
 ## Instalação e Execução
 ### Pré-requisitos
